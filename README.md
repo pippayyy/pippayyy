@@ -1,8 +1,8 @@
 ### Hi 👋 I'm Pip!
 
-If you had told me 5 years ago that I would find programming really 'cool', I would have laughed. Acctually I might not have because I didn't even know what coding was, Python waas nothing more than a snake.
+If you had told me 5 years ago that I would find programming **really cool ** I would have laughed. Acctually, I might not have, because I didn't even know what coding was - Python was certainly nothing more than a snake.
 
-My passion for creativity and problem solving have helped me learn to code and made me never want to stop. What would we do without the interwebs?
+My passion for creativity and problem solving have helped me learn to code and made me never want to stop. What would we do without the internet?
 
 <!--
 **pippayyy/pippayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
