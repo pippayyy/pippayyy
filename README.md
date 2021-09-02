@@ -1,6 +1,6 @@
-### Hi 👋 I'm Pip!
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"/> I'm Pip! 
 
-If you had told me 5 years ago that I would find programming really fun I would have laughed. Acctually probably not, because I didn't know what coding was - Python was certainly nothing more than a snake.
+If you had told me 5 years ago that I would find programming **really cool** I would have laughed. Acctually probably not, because I didn't know what coding was - Python was certainly nothing more than a snake.
 
 My passion for creativity and problem solving have helped me learn to code and made me never want to stop. What would we do without the internet?
 
