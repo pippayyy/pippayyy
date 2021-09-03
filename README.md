@@ -11,19 +11,6 @@ My passion for creativity and problem solving have helped me learn to code and m
 
 
 
-#### I'm currently...
-
-DOING SOMETHING
-
----
-
-#### Soon I want to...
-
----
-
-#### Ask me about...
-
-
 ```python
 hello = ""
 print hello
