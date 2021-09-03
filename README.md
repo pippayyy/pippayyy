@@ -1,10 +1,15 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"/> I'm Pip! 
+---
+
+<a href="https://www.linkedin.com/in/pip-austin-222615173/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 If you had told me 5 years ago that I would find programming **really cool** I would have laughed. Actually probably not because I didn't know what coding was. Python was nothing more than a snake.
 
 My passion for creativity and problem solving have helped me learn to code and made me never want to stop.
 
 ---
+
+
 
 #### I'm currently...
 
