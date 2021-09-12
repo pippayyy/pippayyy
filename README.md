@@ -5,7 +5,7 @@ I didn't know programming was a thing a couple of years ago :star_struck: There'
 
 Data Analyst/Automation specialist/Developer - aspiring software engineer!
 
-My passion for creativity and problem solving have helped me learn to code and make me strive to learn more everyday.
+My passion for creativity and problem solving have helped me learn to code and push me to learn more everyday.
 
 ---
 :briefcase: What I have learnt so far:
