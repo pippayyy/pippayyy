@@ -1,20 +1,30 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"/> I'm Pip! 
 ---
 
-<a href="https://www.linkedin.com/in/pip-austin-222615173/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+I didn't know programming was a thing a couple of years ago :star_struck: There's no shame in being the one with the non-techy background - that's what google is for!
 
-If you had told me 5 years ago that I would find programming **really cool** I would have laughed. Actually probably not because I didn't know what coding was. Python was nothing more than a snake.
+Data Analyst/Automation specialist/Developer - aspiring software engineer!
 
-My passion for creativity and problem solving have helped me learn to code and made me never want to stop.
+My passion for creativity and problem solving have helped me learn to code and make me strive to learn more everyday.
+
+---
+:briefcase: What I have learnt so far:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" height="45"/> <img src="https://user-images.githubusercontent.com/23016064/32404921-03554c5a-c15b-11e7-9a46-059351545bdf.png" height="45"/> <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/PNG/PowerBI.png" height="45"/> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerApps-Colored.png" height="45"/> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerAutomate-Colored.png" height="45"/>
+
 
 ---
 
+:chart_with_upwards_trend: Currently I am:
+ - Completing a level 6 (degree) qualification in software engineering whilst working full time
+ - Looking for extra projects to practice my skills and learn some new ones!
 
+---
 
-```python
-hello = ""
-print hello
-```
+:speech_balloon: Come say hey!
+
+<a href="https://www.linkedin.com/in/pip-austin-222615173/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 
 
 <!--
