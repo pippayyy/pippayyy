@@ -1,7 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"/> I'm Pip! 
 ---
 
-I didn't know programming was a thing a couple of years ago :star_struck: There's no shame in being the one with the non-techy background - that's what google is for!
+I didn't know programming was a thing a couple of years ago :star_struck: There's no shame in not having a *techy* background - that's what google is for!
 
 Data Analyst/Automation specialist/Developer - aspiring software engineer!
 
