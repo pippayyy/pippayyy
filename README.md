@@ -1,7 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"/> I'm Pip! 
 ---
 
-99% learned from google! Let's do this :star_struck: 
+You don't need to know everything - that's what google is for! :star_struck:
 
 Data Analyst/Automation specialist/Developer - aspiring software engineer!
 
@@ -16,7 +16,7 @@ My passion for creativity and problem solving have helped me learn to code and p
 ---
 
 :chart_with_upwards_trend: Currently I am:
- - Completing a level 6 (degree) qualification in software engineering whilst working full time
+ - Completing my degree qualification in software engineering whilst working full time (ouch)
  - Looking for extra projects to practice my skills and learn some new ones!
 
 ---
@@ -24,6 +24,8 @@ My passion for creativity and problem solving have helped me learn to code and p
 :speech_balloon: Come say hey!
 
 <a href="https://www.linkedin.com/in/pip-austin-222615173/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+(I need a </br>)
 
 
 
