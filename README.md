@@ -1,7 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"/> I'm Pip! 
 ---
 
-I didn't know programming was a thing a couple of years ago :star_struck: There's no shame in not knowing every answer - that's what google is for!
+99% learned from google! Let's do this :star_struck: 
 
 Data Analyst/Automation specialist/Developer - aspiring software engineer!
 
