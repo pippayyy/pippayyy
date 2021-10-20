@@ -1,7 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"/> I'm Pip! 
 ---
 
-You don't need to know everything - that's what google is for! :star_struck:
+ :star_struck:
 
 Data Analyst/Automation specialist/Developer - aspiring software engineer!
 
@@ -24,8 +24,6 @@ My passion for creativity and problem solving have helped me learn to code and p
 :speech_balloon: Come say hey!
 
 <a href="https://www.linkedin.com/in/pip-austin-222615173/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-(I need a \</br>)
 
 
 
