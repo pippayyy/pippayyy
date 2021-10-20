@@ -1,7 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"/> I'm Pip! 
 ---
 
- :star_struck:
+Tryna make some cool stuff:star_struck:
 
 Data Analyst/Automation specialist/Developer - aspiring software engineer!
 
