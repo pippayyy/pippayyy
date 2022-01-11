@@ -11,6 +11,7 @@ My passion for creativity and problem solving have helped me learn to code and p
 :briefcase: What I have learnt so far:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="45"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" height="45"/> <img src="https://github.com/amido/azure-vector-icons/blob/master/renders/sql-database-generic.png" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="45"/> 
