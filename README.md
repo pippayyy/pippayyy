@@ -17,7 +17,9 @@ My passion for creativity and problem solving have helped me learn to code and p
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="45"/> 
 <img src="https://github.com/amido/azure-vector-icons/blob/master/renders/sql-database-generic.png" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="45"/> 
-<img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/PNG/PowerBI.png" height="45"/> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerApps-Colored.png" height="45"/> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerAutomate-Colored.png" height="45"/>
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="45"/> 
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Apps-Colored.png" height="45"/> 
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Automate-Colored.png" height="45"/>
 
 
 ---
