@@ -1,14 +1,12 @@
-### Hi <span class="wave">👋</span> I'm Pip! 
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="5%" width="5%"/>  I'm Pip! 
 ---
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="5%" width="5%"/> 
-
-<img src="https://raw.githubusercontent.com/Potapy4/Potapy4/master/wave.gif"/> 
 
 Just here tryna make cool stuff:star_struck:
 
+---
 Automation/Software engineer
 
+---
 My passion for creativity and problem solving have helped me learn to code and push me to learn more everyday.
 
 ---
