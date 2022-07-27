@@ -1,9 +1,9 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20"/> I'm Pip! 
 ---
 
-Just tryna make cool stuff:star_struck:
+Just here tryna make cool stuff:star_struck:
 
-Data Analyst/Automation specialist/Developer - aspiring software engineer!
+Automation/Software engineer
 
 My passion for creativity and problem solving have helped me learn to code and push me to learn more everyday.
 
