@@ -3,7 +3,7 @@
 
 Just here tryna make cool stuff:star_struck: 
 
-Software engineer | Automation
+Software Engineer | Automation
 
 
 My passion for creativity and problem solving have helped me learn to code and push me to learn more everyday.
