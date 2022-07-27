@@ -1,5 +1,7 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20"/> I'm Pip! 
+### Hi <span class="wave">👋</span> I'm Pip! 
 ---
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20"/> 
 
 Just here tryna make cool stuff:star_struck:
 
