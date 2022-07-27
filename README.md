@@ -1,7 +1,7 @@
 ### Hi <span class="wave">👋</span> I'm Pip! 
 ---
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20"/> 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50"/> 
 
 <img src="https://raw.githubusercontent.com/Potapy4/Potapy4/master/wave.gif"/> 
 
