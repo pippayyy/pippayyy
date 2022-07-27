@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20"/> 
 
-<img src="https://raw.githubusercontent.com/Potapy4/Potapy4/master/wave.gif" height="20"/> 
+<img src="https://raw.githubusercontent.com/Potapy4/Potapy4/master/wave.gif"/> 
 
 Just here tryna make cool stuff:star_struck:
 
