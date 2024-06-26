@@ -24,7 +24,6 @@ My passion for creativity and problem solving have helped me learn to code and p
 ---
 
 :chart_with_upwards_trend: Currently I am:
- - Completing my degree qualification in software engineering whilst working full time (ouch)
  - Looking for extra projects to practice my skills and learn some new ones!
 
 ---
