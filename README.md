@@ -31,7 +31,7 @@ My passion for creativity and problem solving have helped me learn to code and p
 
 :speech_balloon: Come say hey!
 
-<a href="https://www.linkedin.com/in/pip-austin-222615173/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pip-austin-222615173/"><img src = "https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/pip.codes/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
 
