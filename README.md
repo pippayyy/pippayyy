@@ -24,7 +24,8 @@ My passion for creativity and problem solving have helped me learn to code and p
 ---
 
 :chart_with_upwards_trend: Currently I am:
- - Looking for extra projects to practice my skills and learn some new ones!
+ - Creating content <a href="https://www.instagram.com/pip.codes/">@pip.codes</a>
+ - Working on fun projects to improve my skills!
 
 ---
 
