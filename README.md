@@ -1,11 +1,12 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="3%" width="3%"/>  I'm Pip! 
 ---
 
-Full-Stack Software Engineer | UI/UX | Content Creation | Automation
+AI Developer | Full-Stack Software Engineer | UI/UX | Automation | Content Creation
 
 
 My passion for creativity and problem solving have helped me learn to code and push me to learn more everyday.
 
+<!--
 ---
 :briefcase: What I have learnt so far:
 
@@ -28,7 +29,7 @@ My passion for creativity and problem solving have helped me learn to code and p
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Apps-Colored.png" height="45"/> 
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Automate-Colored.png" height="45"/>
 
-
+-->
 ---
 
 :chart_with_upwards_trend: Currently I am:
