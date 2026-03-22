@@ -32,11 +32,7 @@ My passion for creativity and problem solving have helped me learn to code and p
 -->
 ---
 
-:chart_with_upwards_trend: Currently I am:
- - Creating content <a href="https://www.instagram.com/pip.codes/">@pip.codes</a>
- - Working on fun projects to improve my skills!
-
----
+:chart_with_upwards_trend: Currently I'm building GenAI solutions on AWS and always learning something new!
 
 :speech_balloon: Come say hey!
 
